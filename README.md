@@ -4,6 +4,8 @@
 
 [![tfsec](https://github.com/sn-ravance/struts2-rce/actions/workflows/tfsec.yml/badge.svg)](https://github.com/sn-ravance/struts2-rce/actions/workflows/tfsec.yml)
 
+[![Code Scanning - Action](https://github.com/sn-ravance/struts2-rce/actions/workflows/codeql.yml/badge.svg)](https://github.com/sn-ravance/struts2-rce/actions/workflows/codeql.yml)
+
 ## Exploit Demo for CVE-2017-5638
 
 Completely based on https://github.com/piesecurity/apache-struts2-CVE-2017-5638
