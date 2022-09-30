@@ -2,6 +2,8 @@
 
 [![Snyk Container](https://github.com/sealmindset/struts2rce/actions/workflows/snyk-container.yml/badge.svg)](https://github.com/sn-ravance/struts2-rce/actions/workflows/snyk-container.yml)
 
+[![tfsec](https://github.com/sn-ravance/struts2-rce/actions/workflows/tfsec.yml/badge.svg)](https://github.com/sn-ravance/struts2-rce/actions/workflows/tfsec.yml)
+
 ## Exploit Demo for CVE-2017-5638
 
 Completely based on https://github.com/piesecurity/apache-struts2-CVE-2017-5638
